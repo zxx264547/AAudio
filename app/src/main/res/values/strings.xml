@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AAudio Demo</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="status_idle">Status: idle</string>
+    <string name="status_playing">Status: playing</string>
+    <string name="status_stopped">Status: stopped</string>
+</resources>
